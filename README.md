@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-pizza
+pizza,mk,kfc
 # Student ID
 57122420560
 # Name
